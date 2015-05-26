@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CA Hospitals</string>
+
+    <string name="search_title">Find Hospitals Info and\nLocation in California</string>
+    <string name="search_button">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_hospital">DisplayHospitalActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
